@@ -1,0 +1,5 @@
+Just a file to ensure META-INF/resources exists because empty directories are not really a thing in Git.
+
+We don't really need it, issue already comes up when just an empty META-INF/resources directory exists.
+
+However, delete META-INF/resources and issues disappears.
